@@ -2,7 +2,7 @@
 
 Olá! Sou Emerson Marreiros, desenvolvedor apaixonado por tecnologia e pela criação de soluções eficientes. Atualmente, foco no aprimoramento contínuo das minhas habilidades, no desenvolvimento de projetos de alto impacto e na troca de conhecimento com a comunidade dev.
 
-🚀 Sou o criador da biblioteca Python voronoip, voltada para soluções em Geometria Computacional.
+🚀 Sou o criador da biblioteca Python [voronoip](https://pypi.org/project/voronoip/), voltada para soluções em Geometria Computacional.
 
 
 [![Estrelas](https://img.shields.io/github/stars/emerson-marreiros?style=for-the-badge&color=388e3c&label=ESTRELAS&logo=star&logoColor=white)](https://github.com/emerson-marreiros)
