@@ -6,7 +6,7 @@ Sou o criador da biblioteca Python [voronoip](https://pypi.org/project/voronoip/
 
 
 [![Estrelas](https://img.shields.io/github/stars/emerson-marreiros?style=for-the-badge&color=388e3c&label=ESTRELAS&logo=star&logoColor=white)](https://github.com/emerson-marreiros)
-[![Seguidores](https://img.shields.io/github/followers/emerson-marreiros?style=for-the-badge&color=1976d2&label=SEGUIDORES&logo=github&logoColor=white)](https://github.com/emerson-marreiros)
+[![Seguidores](https://img.shields.io/github/followers/emerson-marreiros?style=for-the-badge&color=1976d2&label=SEGUIDORES&logo=github&logoColor=white)](https://github.com/emerson-marreiros?tab=followers)
 
 ---
 
